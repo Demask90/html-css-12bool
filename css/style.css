@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box, .box-nested {
+    min-height: 50px;
+    background: #006cfa;
+    border: 1px solid #fff;
+    text-align: center;
+    color: #fff;
+    padding: 15px;
+}
