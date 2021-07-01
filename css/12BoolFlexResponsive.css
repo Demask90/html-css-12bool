@@ -217,12 +217,7 @@
         justify-content: flex-start;
         text-align: start;
     }
-    
-    .center-md {
-        justify-content: center;
-        text-align: center;
-    }
-    
+
     .end-md {
         justify-content: flex-end;
         text-align: end;
