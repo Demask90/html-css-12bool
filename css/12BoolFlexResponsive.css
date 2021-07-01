@@ -53,7 +53,6 @@
         flex-grow: 1;
         flex-basis: 0;
         max-width: 100%;
-        border: 2px solid black;
     }
 
     .col-xs-1 {flex-basis: calc((100% / 12) * 1); max-width: calc((100% / 12) * 1); }
@@ -120,7 +119,6 @@
         flex-grow: 1;
         flex-basis: 0;
         max-width: 100%;
-        border: 2px solid green;
     }
 
     .col-sm-1 {flex-basis: calc((100% / 12) * 1); max-width: calc((100% / 12) * 1); }
@@ -287,17 +285,14 @@
     
     .start-lg {
         justify-content: flex-start;
-        text-align: start;
     }
     
     .center-lg {
         justify-content: center;
-        text-align: center;
     }
     
     .end-lg {
         justify-content: flex-end;
-        text-align: end;
     }
     
     .top-lg {
